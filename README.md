@@ -1,2 +1,2 @@
-# Blue_Diamond
+# Hello_World
 Practice Repository
